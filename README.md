@@ -1,2 +1,9 @@
-# Drawer-Navigation-in-React-Native-Expo
-[Check out the documentation here](https://ninza7.medium.com/drawer-navigation-in-react-native-expo-with-source-code-426055f7e9f4)
+# App-in-React-Native-Expo
+
+Instalar dentro del proyecto 
+
+npm install @react-navigation/native
+
+npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install @react-navigation/drawer
